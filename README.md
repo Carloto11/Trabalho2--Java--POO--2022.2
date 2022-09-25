@@ -9,6 +9,7 @@
 
 <div>
   <h6>Click on the image below to translate the info ⬇ </h6>
+  <a href="https://github.com/Carloto11/Trabalho2--Java--POO--2022.2/blob/main/READMEEN.md">
   <img src="https://github.com/Carloto11/Trabalho2--Java--POO--2022.2/blob/main/CBposter.jpg">
 </div>
   

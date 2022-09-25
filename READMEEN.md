@@ -9,7 +9,8 @@
 
 <div>
   <h6>Clique na imagem abaixo para traduzir as informações ⬇ </h6>
-  <img src="https://github.com/Carloto11/Trabalho2--Java--POO--2022.2/blob/main/CBposter.jpg">
+  <a href="https://github.com/Carloto11/Trabalho2--Java--POO--2022.2/blob/main/README.md">
+  <img src="https://github.com/Carloto11/Trabalho2--Java--POO--2022.2/blob/main/CBposteren.jpg">
 </div>
   
 <h3> Take a look at our other projects:</h3>
