@@ -30,8 +30,8 @@
 |---|---|
 |Questão 01| Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
 |Questão 02| Faça um programa que mostre um menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação. Menu de opções: 1. Somar dois números; 2. Raiz quadrada de um número.
-|Questão 03| 
-|Questão 04| 
+|Questão 03| Faça um programa para resolver equações do segundo grau.
+|Questão 04| Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA - mês por extenso e hora:minuto.
 |Questão 05| 
 |Questão 06| 
 |Questão 07| 
