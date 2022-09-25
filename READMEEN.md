@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
     
-## Bank of questions asked by the duo:
+## Question made by the duo:
 
 | Question | Description of questions |
 |---|---|
