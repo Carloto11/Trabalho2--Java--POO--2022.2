@@ -35,10 +35,8 @@
 |Question 05| Write a program that reads a number N that indicates how many integer and positive values ​​should be read next. For each number read, show a table containing the read value and the factorial of that value.
 |Question 06| Write a program that takes an integer greater than 1, checks whether the given number is prime or not, and displays a prime number or non-prime number message. A number is prime when it is divisible only by 1 and itself.
 |Question 07| In a football league there are five teams and each one has eleven players. Make a program that receives the age, weight and height of each player, calculates and displays: the number of players under the age of 18; the average age of the players of each team; the average height of all players in the championship; and the percentage of players weighing more than 80 kg among all players in the championship.
-|Question 08| Make a program that presents the following options menu, allows the user to choose the option
-desired, receive the data necessary to perform the operation and show the result. Check for invalid option and don't worry about invalid salary restrictions.
-|Question 09| Write a program that takes several numbers, calculates and displays:
-the sum of the numbers entered: the amount of numbers entered; the average of the numbers entered; the highest number entered; the smallest number entered; the average of the even numbers.
+|Question 08| Make a program that presents the following options menu, allows the user to choose the option desired, receive the data necessary to perform the operation and show the result. Check for invalid option and don't worry about invalid salary restrictions.
+|Question 09| Write a program that takes several numbers, calculates and displays: the sum of the numbers entered: the amount of numbers entered; the average of the numbers entered; the highest number entered; the smallest number entered; the average of the even numbers.
 |Question 10| Write a program that displays the tables for the numbers from 1 to 10.
 
 

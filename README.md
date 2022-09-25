@@ -9,7 +9,7 @@
 
 <div>
   <h6>Click on the image below to translate the info ⬇ </h6>
-  <img src="https://github.com/Carloto11/Trabalho2--Java--POO--2022.2/blob/main/CBposter.jpg"
+  <img src="https://github.com/Carloto11/Trabalho2--Java--POO--2022.2/blob/main/CBposter.jpg">
 </div>
   
 <h3> Dê uma olhadinha nos nossos outros projetos:</h3>
@@ -35,8 +35,7 @@
 |Questão 05| Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem serlidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
 |Questão 06| Faça um programa que receba um número inteiro maior que 1, verifique se o número fornecido é primo ou não e mostre uma mensagem de número primo ou de número não primo. Um número é primo quando é divisível apenas por 1 e por ele mesmo.
 |Questão 07| Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um programa que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre: a quantidade de jogadores com idade inferior a 18 anos; a média das idades dos jogadores de cada time; a média das alturas de todos os jogadores do campeonato; e a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
-|Questão 08| Faça um programa que apresente o menu de opções a seguir, permita ao usuário escolher a opção
-desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições do tipo salário inválido.
+|Questão 08| Faça um programa que apresente o menu de opções a seguir, permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições do tipo salário inválido.
 |Questão 09| Faça um programa que receba vários números, calcule e mostre:
 a soma dos números digitados: a quantidade de números digitados; a média dos números digitados; o maior número digitado; o menor número digitado; a média dos números pares;
 |Questão 10| Faça um programa que mostre as tabuadas dos números de 1 a 10.
