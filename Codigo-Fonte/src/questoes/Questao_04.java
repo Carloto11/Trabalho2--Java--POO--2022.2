@@ -6,7 +6,7 @@ import java.time.ZonedDateTime;
 public class Questao_04 {	
 	public static void main(String[] args) {
 		Questao_04 resolver = new Questao_04();
-		resolver.mostrarDataEHora();
+		resolver.executar();
 	}
 	public Questao_04() {}
 	
@@ -21,5 +21,8 @@ public class Questao_04 {
 		
 		System.out.println("Data atual: "+ dia + "/" + listaDosMeses[mes] + "/" + ano);
 		System.out.println("O horário atual é " + hora + ":" + minuto);
+	}
+	public void executar() {
+		this.mostrarDataEHora();
 	}
 }
