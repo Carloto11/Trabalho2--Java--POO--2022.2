@@ -36,17 +36,47 @@ public class Principal {
 			escolha = sc.nextInt();
 			
 			switch(escolha) {
-			case 1: Questao_01 resolver01 = new Questao_01();
-			resolver01.executar(); 
-			break;
-			case 2: Questao_02 resolver02 = new Questao_02();
-			resolver02.executar();
-			break;
-			case 3: Questao_03 resolver03 = new Questao_03();
-			resolver03.executar();
-			break;
-			case 4: Questao_04 resolver04 = new Questao_04();
-			resolver04.mostrarDataEHora();
+				case 1: 
+					Questao_01 resolver01 = new Questao_01();
+					resolver01.executar(); 
+					break;
+				case 2: 
+					Questao_02 resolver02 = new Questao_02();
+					resolver02.executar();
+					break;
+				case 3: 
+					Questao_03 resolver03 = new Questao_03();
+					resolver03.executar();
+					break;
+				case 4: 
+					Questao_04 resolver04 = new Questao_04();
+					resolver04.mostrarDataEHora();
+					break;
+				case 5:
+					Questao_05 resolver05 = new Questao_05();
+					resolver05.executar();
+					break;
+				case 6:
+					Questao_06 resolver06 = new Questao_06();
+					resolver06.executar();
+					break;
+				case 7:
+					Questao_07 resolver07 = new Questao_07();
+					resolver07.executar();
+					break;
+				case 8:
+					Questao_08 resolver08 = new Questao_08();
+					resolver08.executar();
+					break;
+				case 9:
+					Questao_09 resolver09 = new Questao_09();
+					resolver09.executar();
+					break;
+				case 10:
+					Questao_10 resolver10 = new Questao_10();
+					resolver10.tabuada();
+					break;
+					
 			}
 		}
 	}
